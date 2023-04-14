@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "440349205768",
+    "project_id": "stockedge-new",
+    "storage_bucket": "stockedge-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440349205768:android:d165596123d29c81d5f8bd",
+        "android_client_info": {
+          "package_name": "com.example.stockedge_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440349205768-mio1e1d4ldq3hsft74mdu6sbbuuvo9ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMPD8rTjsZikrdwA3HkV1pKJbALMpieM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440349205768-18sqgfuo41gjnfjcft7iuqud1tmle51p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440349205768-ee4t8k3ug2midn9jq6ji42rg6cqg53lb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockedgeNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
